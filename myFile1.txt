@@ -1,1 +1,5 @@
 Im adding my 1st file in new repo
+more stuff coming here
+we re clonning
+remote to local making changes
+pushing back to remote repo
